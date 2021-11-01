@@ -1,0 +1,16 @@
+h1,h2,h3,h4,p,ul,li,body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: #333;
+}
+ul{
+    list-style: none;
+}
+body{
+    font-family: '微软雅黑', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+}
+
